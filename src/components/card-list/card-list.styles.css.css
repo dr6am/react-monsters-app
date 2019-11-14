@@ -1,0 +1,14 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+.card{
+  border-radius: 0.5vmax;
+  padding: 1vmax;
+  background: #282c34;
+  border: 1px white solid;
+  font-size: 2vmax;
+}
