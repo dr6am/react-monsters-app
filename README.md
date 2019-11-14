@@ -1,1 +1,1 @@
-#some react app
+some react app
