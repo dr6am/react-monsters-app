@@ -8,6 +8,7 @@
     "react-scripts": "3.2.0"
   },
   "homepage": "http://dr6am.github.io/react-monsters-app",
+
   "repository": "https://github.com/dr6am/react-monsters-app.git",
   "scripts": {
     "start": "react-scripts start",
