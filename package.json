@@ -7,9 +7,13 @@
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
+  "homepage": "http://dr6am.github.io/react-monsters-app",
+  "repository": "https://github.com/dr6am/react-monsters-app.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -27,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
