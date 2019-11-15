@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-monsters-app/static/css/main.35c235b3.chunk.css",
+    "main.css": "/react-monsters-app/static/css/main.165aa313.chunk.css",
     "main.js": "/react-monsters-app/static/js/main.4cbc6197.chunk.js",
     "main.js.map": "/react-monsters-app/static/js/main.4cbc6197.chunk.js.map",
     "runtime-main.js": "/react-monsters-app/static/js/runtime-main.9c410951.js",
@@ -8,14 +8,14 @@
     "static/js/2.76508610.chunk.js": "/react-monsters-app/static/js/2.76508610.chunk.js",
     "static/js/2.76508610.chunk.js.map": "/react-monsters-app/static/js/2.76508610.chunk.js.map",
     "index.html": "/react-monsters-app/index.html",
-    "precache-manifest.ed8b34a2ef2f3c1ecd19bfb8c994f2b4.js": "/react-monsters-app/precache-manifest.ed8b34a2ef2f3c1ecd19bfb8c994f2b4.js",
+    "precache-manifest.0dcfdf0ade34cd0cd6af68d6f059c7d3.js": "/react-monsters-app/precache-manifest.0dcfdf0ade34cd0cd6af68d6f059c7d3.js",
     "service-worker.js": "/react-monsters-app/service-worker.js",
-    "static/css/main.35c235b3.chunk.css.map": "/react-monsters-app/static/css/main.35c235b3.chunk.css.map"
+    "static/css/main.165aa313.chunk.css.map": "/react-monsters-app/static/css/main.165aa313.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.9c410951.js",
     "static/js/2.76508610.chunk.js",
-    "static/css/main.35c235b3.chunk.css",
+    "static/css/main.165aa313.chunk.css",
     "static/js/main.4cbc6197.chunk.js"
   ]
 }
